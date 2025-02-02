@@ -1,0 +1,12 @@
+my_name = "Ugo" #აქ შევქმენი ჩემი სახელი
+my_surname = "Tshadadze" #აქ შევქმენი ჩემი გვარი
+my_age = "10"# აქ შევქმენი ჩემი ასაკი
+my_weight = 60 #აქ შევქმენი ჩემი წონა
+futue_programmer = True #აქ შევქმენი ჩემი მომავალი პროფესია
+hobby= "Football" #აქ შევქმენი ჩემი ჰობი
+my_dad_name="Rauli"#აქ შევქმენი ჩემი მამის სახელი
+my_mom_name="Tamari"#აქ შევქმენი ჩემი დედის სახელი
+my_dad_username="Tshadadze"#აქ შევქმენი ჩემი მამის გვარი
+my_mom_username="iveri"#აქ შევქმენი ჩემი დედის გვარი
+my_sister_name ="liza"#აქ შევქმენი ჩემი დის სახელი
+my_sister_username="Tshadadze"#აქ შევქმენი ჩემი დის გვარი
