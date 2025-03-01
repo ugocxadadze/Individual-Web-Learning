@@ -1,0 +1,6 @@
+name=input("შემოიტანე ჩემი სახელი")
+surname=input("შემოიტანე ჩემი გვარი")
+age=input("შემოიატნე ჩემი ასაკი")
+Hobbies=input("შემოიტანე ჩემი ჰობი")
+fav_animals=input("შემოიტანე ჩემი საყვარელი ცხოველი")
+print(name+ " "+surname+ " "+age + " "+ Hobbies +" "+fav_animals)

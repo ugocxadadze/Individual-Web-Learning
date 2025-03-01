@@ -1,0 +1,1 @@
+#sololearn quiz1-დან quiz-2-მდე
