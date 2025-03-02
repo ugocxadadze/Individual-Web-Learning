@@ -1,0 +1,12 @@
+gayopa=20/2
+gamravleba=20*3
+swori_gayopa=60//2
+nashti=20%11
+mimateba=700+450
+gamokleba=900-320
+print(gayopa)
+print(gamravleba)
+print(swori_gayopa)
+print(nashti)
+print(mimateba)
+print(gamokleba)
